@@ -254,10 +254,10 @@ header {
 .fv {
   width: 100%;
   height: 100vh;
-  /* background-image: url(../img/fv-bgi_01@2x.jpg);
+  background-image: url(./fv-bgi_01@2x.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center; */
+  background-position: center;
   position: relative;
 }
 .slider img {
@@ -335,7 +335,7 @@ h3 {
 
 /* works */
 #works {
-  background-image: url(../img/works-bgi@2x.jpg);
+  background-image: url(./works-bgi@2x.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -396,19 +396,19 @@ h3 {
   background-color: rgba(40, 47, 53, 0.7);
 }
 .hearing {
-  background-image: url(../img/service-img01@2x.jpg);
+  background-image: url(./service-img01@2x.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 .planning {
-  background-image: url(../img/service-img02@2x.jpg);
+  background-image: url(./service-img02@2x.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 .direction {
-  background-image: url(../img/sevice-img03@2x.jpg);
+  background-image: url(./sevice-img03@2x.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -417,7 +417,7 @@ h3 {
 /* contact */
 
 #contact {
-  background-image: url(../img/contact-bgi@2x.jpg);
+  background-image: url(./contact-bgi@2x.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -559,7 +559,7 @@ footer P {
   .fv {
     width: 100%;
     height: 100vh;
-    background-image: url(../img/fv-bgi_01@2x.jpg);
+    background-image: url(./fv-bgi_01@2x.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
